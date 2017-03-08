@@ -7,4 +7,4 @@ This is a simple vanilla JavaScript app.  The app demonstrates the following pat
 * adding a class on `keydown`;
 * listening for the `transitionend` event to remove classes.
 
-Completed as part of Wes Bos's (JavaScript30 course)[https://javascript30.com].
+Completed as part of Wes Bos's [JavaScript30 course](https://javascript30.com).
