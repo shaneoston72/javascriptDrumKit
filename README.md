@@ -6,3 +6,5 @@ This is a simple vanilla JavaScript app.  The app demonstrates the following pat
 * playing audio on `keydown`;
 * adding a class on `keydown`;
 * listening for the `transitionend` event to remove classes.
+
+Completed as part of Wes Bos's (JavaScript30 course)[https://javascript30.com].
